@@ -3,3 +3,7 @@ Implementar una transición de vistas mediante cambios de visibilidad y animacio
 Manejar la entrada de datos y su visualización en la misma actividad.
 
 Alumno Moran Gomez Eduardo Antonio
+
+
+https://github.com/user-attachments/assets/2b41d17e-c9be-4422-b6c2-0a0f06f02477
+
